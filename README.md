@@ -6,6 +6,8 @@ Highlight the most important among a (typically large) set of factors by combini
 
 Pareto charts are useful when analyzing data where many courses of action are competing for attention, for instance indicating the frequency or causes of problems, as well as their cumulative impact. Pareto charts help to find the problems to prioritize in order to observe the greatest overall improvement.
 
+*This mod was made possible by a great team of students of the Bachelor’s program Software Engineering and Management at Gothenburg University. Thanks to the project owners: Maja Linder, Bardha Ahmeti, Astrid Berntsson, Yuhan Li, Mohammad Zandkarimi, Navya Pulikandla Satyanarayanachetty*
+
 ## Installation & Use
 
 [Download latest version](https://github.com/TIBCOSoftware/spotfire-mod-pareto/releases)
